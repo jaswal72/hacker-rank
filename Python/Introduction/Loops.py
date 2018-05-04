@@ -1,4 +1,3 @@
-if __name__ == '__main__':
-    n = int(raw_input())
-    for n in range(n):
-        print (n*n)
+a = int(input())
+for x in range(0,a):
+	print(x*x)

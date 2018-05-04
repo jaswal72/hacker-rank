@@ -1,6 +1,6 @@
-a=0
+  a=0
 while [ $a -lt 100 ]
-do 
+do
     if [ `expr $a % 2` != 0 ]
     then
         echo $a

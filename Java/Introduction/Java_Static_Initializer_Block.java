@@ -1,5 +1,3 @@
-// Save this file as Solution.java on your machine.Why won't it run if you don't do that? Find out!
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -7,7 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-	static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+	BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 	static boolean flag=true;
 	static int B=0;
 	static int H=0;
